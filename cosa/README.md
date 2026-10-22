@@ -65,3 +65,6 @@ De forma por defecto Pi-hole no sera usado por tu red para ello configuraremos n
 [Para configurar Pi-Hole como DNS](https://discourse.pi-hole.net/t/how-do-i-configure-my-devices-to-use-pi-hole-as-their-dns-server/245)
 
 [Para configurar Pi-Hole como DHCP](https://discourse.pi-hole.net/t/how-do-i-use-pi-holes-built-in-dhcp-server-and-why-would-i-want-to/3026)
+
+Esto funciona o es un invento del gobierno
+
